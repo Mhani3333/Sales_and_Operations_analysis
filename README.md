@@ -3,8 +3,8 @@ This project provides a comprehensive analysis of Walmart's sales data using R, 
 
 # Key Features:
 ## Data Cleaning and Preparation
-Handles missing values and ensures correct date formatting.
-Aggregates sales data for meaningful analysis.
+- Handles missing values and ensures correct date formatting.
+- Aggregates sales data for meaningful analysis.
 
 ## Sales Trend Analysis
 Visualizes weekly sales trends to identify patterns, seasonality, and anomalies.
